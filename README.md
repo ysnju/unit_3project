@@ -35,4 +35,10 @@ in bulletpoints
 ## Flow Diagrams
 
 
-## Record of Tasks
+## Record of Task
+
+# Criteria C: Development
+
+# Criteria D: Functionality and Extensibility of the product
+
+# Criteria E: Evaluation
