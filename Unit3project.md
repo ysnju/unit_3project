@@ -11,6 +11,10 @@
 ## Success Criteria
 in bulletpoints
 
+
+https://user-images.githubusercontent.com/89366347/157995571-2c2406aa-52a2-4bfa-88c7-36c9f4a6b6fa.MOV
+
+
 ##appendix(evidence of client aproving the sucsess criteria)(voice video script email exchange)
 
 
