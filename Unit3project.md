@@ -9,7 +9,7 @@ The client wants a
 
 
 ## Success Criteria
-1.There is a log-in screen that requires a username and password to log in
+1.There is a log-in screen that requires a username and password to log in//
 2.Screen after the log-in screen shows **file names** of files in oldest Last updated date order
 3.Screen after the log-in screen shows **file size** of files in oldest Last updated date order
 4.Screen after the log-in screen shows **file types** of files in oldest Last updated date order
