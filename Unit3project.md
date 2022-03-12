@@ -3,7 +3,7 @@
 # Criteria A: Planning
 
 ## Problem definition
-
+The client wants a 
 
 ## Proposed Solution
 
