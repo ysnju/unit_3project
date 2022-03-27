@@ -3,10 +3,11 @@
 # Criteria A: Planning
 
 ## Problem definition
-The client wants a 
+Because my client Bea uses her computer daily for years, she has files that use space on her computer. She wants to identify such files with a application, by file name, file size, file types, last updated date, date of the file created and file address. This is because the client does not want to delete any personal files that are kept on purpose. The application also requires a username and password to log in to insure private data can only be accessed by her.
 
 ## Proposed Solution
-
+**Design Statement**
+I will be solving my clients problem by creating an application that shows information of a file. To do so, I will create the application with the Python3 programming language. I will also be using the Terminal Control Language(TCL) in order to access the clients file with Python3. Finally, I will be using Kivy.md to create the log in screen which the client requires. 「２週間以内に要編集」
 
 ## Success Criteria
 
