@@ -49,8 +49,11 @@ https://user-images.githubusercontent.com/89366347/157995571-2c2406aa-52a2-4bfa-
 
 
 # Criteria B: Design
+#Wireframe Diagram
+![IMG_AA96B34F8671-1](https://user-images.githubusercontent.com/89366347/164055907-838a0dc6-4c40-424b-be52-b159aa54c819.jpeg)
 
 ## System Diagram
+<img width="923" alt="Screenshot 2022-04-20 at 1 54 57" src="https://user-images.githubusercontent.com/89366347/164055778-1ffcb86f-31b0-4ec7-9181-922d4c17c41d.png">
 
 
 ## Flow Diagrams
