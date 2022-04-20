@@ -7,7 +7,7 @@ Because my client Bea uses her computer daily for years, she has files that use 
 
 ## Proposed Solution
 **Design Statement**
-I will be solving my clients problem by creating an application that shows information of a file. To do so, I will create the application with the Python3 programming language. I will also be using the Terminal Control Language(TCL) in order to access the clients file with Python3. Finally, I will be using Kivy.md to create the log in screen which the client requires. 「２週間以内に要編集」
+I will be solving my clients problem by creating an application that shows information of a file. To do so, I will create the function of the application with the Python3.9 programming language, and the visuals and interface with the client with kivymd. The data needed in this aplication will be stored in SQLite. Python3.9 is a programming language that is most common in the Finally, I will be using Kivy.md to create the log in screen which the client requires. 「２週間以内に要編集」
 
 ## Success Criteria
 
