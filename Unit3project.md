@@ -59,6 +59,8 @@ https://user-images.githubusercontent.com/89366347/157995571-2c2406aa-52a2-4bfa-
 
 ## Flow Diagrams
 
+## UML Diagrams
+![IMG_11986E218770-1](https://user-images.githubusercontent.com/89366347/164235733-8b6915dc-b545-46cf-a379-cedc550ce620.jpeg)
 
 ## Record of Task
 <img width="1911" alt="Screenshot 2022-04-20 at 21 11 40" src="https://user-images.githubusercontent.com/89366347/164227654-77d0b76a-f91c-4200-a508-571ea71be82b.png">
