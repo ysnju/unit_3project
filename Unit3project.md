@@ -53,30 +53,16 @@ https://user-images.githubusercontent.com/89366347/157995571-2c2406aa-52a2-4bfa-
 ![IMG_AA96B34F8671-1](https://user-images.githubusercontent.com/89366347/164055907-838a0dc6-4c40-424b-be52-b159aa54c819.jpeg)
 
 ## System Diagram
-<img width="923" alt="Screenshot 2022-04-20 at 1 54 57" src="https://user-images.githubusercontent.com/89366347/164055778-1ffcb86f-31b0-4ec7-9181-922d4c17c41d.png">
+
+<img width="942" alt="Screenshot 2022-04-20 at 21 12 03" src="https://user-images.githubusercontent.com/89366347/164227718-aa754817-6cb5-4f0a-8721-c7b8f6f080d8.png">
 
 
 ## Flow Diagrams
 
 
 ## Record of Task
-\begin{table}[]
-\begin{tabular}{|l|l|l|l|l|l|}
-\hline
-Task No & Planned Action                                          & Planned Outcome                                                                                        & Time estimate & Target completion date & Criterion \\ \hline
-1       & Create introduction to the game                         & Introduces game rules                                                                                  & 1h            & 10/10                  & B         \\ \hline
-2       & Create timer                                            & Shows the time the game has been played by the player                                                  & 1h            & 10/11                  & C         \\ \hline
-3       & Create scores                                           & Shows the score of the player                                                                          & 3h            & 10/11                  & C         \\ \hline
-4       & Create difficulty                                       & A number inputted by the player will be the difficulty                                                 & 5 min         & 10/21                  & C         \\ \hline
-5       & Unit Test: function for encoding witht he Caesar cypher & To check that the function works as expected with input "anju" and key=17, the outcome should be "real & 5min          & 10/7                   & E         \\ \hline
-6       & Create story line                                       & N/A                                                                                                    & 1h            & 10/13                  &           \\ \hline
-7       & Divide the story line to while loops                    & Shows wrong inputs/ forces the user to the right answer                                                & 1h            & 10/15                  &           \\ \hline
-8       & Divide the story line with if                           & Makes the chapters                                                                                     & 30h           & 10/16                  &           \\ \hline
-9       & Create ending                                           & prints the name score and total time the user was on the game                                          & 30min         &                        &           \\ \hline
-        &                                                         &                                                                                                        &               &                        &           \\ \hline
-        &                                                         &                                                                                                        &               &                        &           \\ \hline
-\end{tabular}
-\end{table}
+<img width="1911" alt="Screenshot 2022-04-20 at 21 11 40" src="https://user-images.githubusercontent.com/89366347/164227654-77d0b76a-f91c-4200-a508-571ea71be82b.png">
+
 # Criteria C: Development
 
 # Criteria D: Functionality and Extensibility of the product
