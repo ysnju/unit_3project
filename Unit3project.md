@@ -54,7 +54,8 @@ https://user-images.githubusercontent.com/89366347/157995571-2c2406aa-52a2-4bfa-
 
 ## System Diagram
 
-<img width="942" alt="Screenshot 2022-04-20 at 21 12 03" src="https://user-images.githubusercontent.com/89366347/164227718-aa754817-6cb5-4f0a-8721-c7b8f6f080d8.png">
+<img width="1336" alt="Screenshot 2022-04-21 at 19 32 58" src="https://user-images.githubusercontent.com/89366347/164440053-23b972e9-f700-484f-9149-ac41f8b4c64b.png">
+
 
 
 ## Flow Diagrams
