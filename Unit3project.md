@@ -94,6 +94,7 @@ https://user-images.githubusercontent.com/89366347/157995571-2c2406aa-52a2-4bfa-
 | 18      | Create system/flow/ER/UML diagram | Create diagrams to help understand the code, and how it functions                                            | 5hr           | 4/21                   | C         |
 | 19      | Final demonstration with client   | Final check with client                                                                                      | 20min         | 4/21                   | D         |
 # Criteria C: Development
+```
 
 # Criteria D: Functionality and Extensibility of the product
 
