@@ -581,9 +581,9 @@ Edit screen requires to save, update and clear content. Clear is most self expla
 
 TextField https://kivymd.readthedocs.io/en/latest/components/textfield/?highlight=text+field TextField - KivyMD 1.0.0.dev0 documentation April 4, 2022
 
-TextBox https://kivymd.readthedocs.io/en/latest/components/textbox/?highlight=text+field TextField - KivyMD 1.0.0.dev0 documentation April 10, 2022
+TextBox https://kivymd.readthedocs.io/en/latest/components/textbox/?highlight=text+field TextBox - KivyMD 1.0.0.dev0 documentation April 10, 2022
 
-BoxLayout https://kivymd.readthedocs.io/en/latest/components/boxlayout/?highlight=sizehint TextField - KivyMD 1.0.0.dev0 documentation April 10, 2022
+BoxLayout https://kivymd.readthedocs.io/en/latest/components/boxlayout/?highlight=sizehint BoxLayout - KivyMD 1.0.0.dev0 documentation April 10, 2022
 # Criteria D: Functionality and Extensibility of the product
 
 # Criteria E: Evaluation
