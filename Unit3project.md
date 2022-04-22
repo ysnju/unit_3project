@@ -72,8 +72,27 @@ https://user-images.githubusercontent.com/89366347/157995571-2c2406aa-52a2-4bfa-
 
 
 ## Record of Task
-<img width="1911" alt="Screenshot 2022-04-20 at 21 11 40" src="https://user-images.githubusercontent.com/89366347/164227654-77d0b76a-f91c-4200-a508-571ea71be82b.png">
-
+| Task No | Planned Action                    | Planned Outcome                                                                                              | Time estimate | Target completion date | Criterion |
+|---------|-----------------------------------|--------------------------------------------------------------------------------------------------------------|---------------|------------------------|-----------|
+| 1       | Meeting with client               | Identify their need                                                                                          | 20min         | 3/2                    | A         |
+| 2       | Meeting with teacher              | Receive advice for appropriate methods that fulfill client needs effectively Discussion of proposed solution | 10min         | 3/4                    | A         |
+| 3       | DecideProblem definition          | Embody the clients problem                                                                                   | 20min         | 3/4                    | A         |
+| 4       | Identify success criteria         | To ensure the quality of the produced product                                                                | 10min         | 3/7                    | A         |
+| 5       | Meeting with client               | To agree with the success criteria, if changes are needed, they are made here.                               | 10min         | 3/7                    | A         |
+| 6       | Proposed solution                 | To justify the methods used for the project. To make sure the method used to solve the problem is effective. | 40min         | 4/20                   | A         |
+| 7       | Screen creation                   | To understand the logistics of the method used to solve the problem                                          | 2 hr          | 3/28                   | B         |
+| 8       | Meeting with client               | To agree with the method used, and meeting regarding wireframe diagram that suits client best                | 10min         | 3/30                   | A         |
+| 9       | Create wireframe diagram          | To agree with the direction the solution is going                                                            | 40min         | 3/31                   | B         |
+| 10      | Meeting with client               | New meeting to update success criteria(Client wanted more Privacy)                                           | 3hr           | 4/7                    | A         |
+| 11      | Password encryption               | Learning password encryption                                                                                 | 2hr 30min     | 4/9                    | C         |
+| 12      | Welcome Screen                    | Screen Transition                                                                                            | 1hr           | 4/11                   | C         |
+| 13      | Registration Screen               | To allow the client to have multiple accounts                                                                | 1hr           | 4/15                   | C         |
+| 14      | New Item Screen                   | To allow the client to add files                                                                             | 2hr           | 4/18                   | C         |
+| 15      | Table Screen                      | To allow client to view files                                                                                | 2hr           | 4/16                   | C         |
+| 16      | Edit Screen                       | To allow client to edit files                                                                                | 10hr          | 4/21                   | C         |
+| 17      | Update Wireframe diagram          | To have a correlating wireframe diagram as the product                                                       | 1hr           | 4/4                    | B         |
+| 18      | Create system/flow/ER/UML diagram | Create diagrams to help understand the code, and how it functions                                            | 5hr           | 4/21                   | C         |
+| 19      | Final demonstration with client   | Final check with client                                                                                      | 20min         | 4/21                   | D         |
 # Criteria C: Development
 
 # Criteria D: Functionality and Extensibility of the product
