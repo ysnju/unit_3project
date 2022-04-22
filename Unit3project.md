@@ -490,30 +490,8 @@ class TableScreen(MDScreen):
        #print(f"the user selected was {filename}")
 
 ```
-To view a file, 
+To view a table, on_pre_enter indicates the size and column size, data and what data to query. For this to work it also needs more than two files. Therefore there is a code to append empty data in columns to make the number of data more than two.  
 
-[New Item Screen]
-```py
-class NewitemScreen(MDScreen):
-   def register_new_file(self):
-       print("registering")
-       filename_entered = self.ids.filename.text
-       filetype_entered = self.ids.filetype.text
-       file_size_entered = self.ids.file_size.text
-       lastopened_entered = self.ids.lastopened.text
-       firstcreated_entered = self.ids.firstcreated.text
-       address_entered = self.ids.address.text
-       print(filename_entered, filetype_entered)
-       db = my_database_handler("app_database.db")
-       db.create_new_file(filename=filename_entered,
-                          filetype=filetype_entered,
-                          file_size=file_size_entered,
-                          lastopened=lastopened_entered,
-                          firstcreated=firstcreated_entered,
-                          address=address_entered)
-       db.close()
-       self.parent.current = "Table Screen"
-```
 [Edit Screen]
 ```py
 class EditScreen(MDScreen):
@@ -599,7 +577,7 @@ class EditScreen(MDScreen):
        self.ids.adress.text = ""
 
 ```
-
+Edit screen requires to save, update and clear content. Clear is most self explanatory, it replaces the content with “” which contains nothing, to delete content. To update the table, the database needs to be opened and input from text field(refer to check_pressed) the content inside the textfield will replace the previous content by self.ids once again.
 
 # Criteria D: Functionality and Extensibility of the product
 
