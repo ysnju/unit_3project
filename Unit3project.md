@@ -579,6 +579,8 @@ class EditScreen(MDScreen):
 ```
 Edit screen requires to save, update and clear content. Clear is most self explanatory, it replaces the content with “” which contains nothing, to delete content. To update the table, the database needs to be opened and input from text field(refer to check_pressed) the content inside the textfield will replace the previous content by self.ids once again.
 
+TextField https://kivymd.readthedocs.io/en/latest/components/textfield/?highlight=text+field TextField - KivyMD 1.0.0.dev0 documentation April 4, 2022
+TextBox https://kivymd.readthedocs.io/en/latest/components/textbox/?highlight=text+field TextField - KivyMD 1.0.0.dev0 documentation April 10, 2022
 # Criteria D: Functionality and Extensibility of the product
 
 # Criteria E: Evaluation
