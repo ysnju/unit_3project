@@ -104,12 +104,12 @@ Fig6
 Fig6 is a UML Diagram which shows what a class contains. The User class contains four attributes on the diagram and can inherit multiple attributes from the File class.
 
 # Criteria C: Development
-Tools used in the program
-Random
-Python3.9
-Kivy. MD
-SQLite3/Relational database
-Passlib/Crypt Context
+1.Tools used in the program
+2.Random
+3.Python3.9
+4.Kivy. MD
+5.SQLite3/Relational database
+6.Passlib/Crypt Context
 
 
 Production process
