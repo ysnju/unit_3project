@@ -121,6 +121,14 @@ Production process
 6. Edit Screen
 7. Contact Screen(same as Register screen)
 
+[why the technology above is used]
+1.Login screen
+The log in screen needs a login system and a button to start it.
+The log in system will need to detect an email and password. The button will have to start a function that compares the input by the user and the information it has.
+Therefore, the log in system will need a database to compare inputs, 2 text fields, and a button. 
+It will also require python function that will compare the input and output. 
+
+
 ## Setting up enviroment
 
 [Kivy.MD]
