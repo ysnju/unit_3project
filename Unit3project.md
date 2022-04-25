@@ -589,10 +589,11 @@ Edit screen requires to save, update and clear content. Clear is most self expla
 
 ## Software updates
 This application can collect any problem from the client when they use the contact button. The contact button is simmple, and less like ly to break, so I will be checking that once a week. However, there is a possibility for it to break, thus, I will be chevking the code with the test methods above once a month.
+Welcome to Kivy.MD's documentation!https://kivymd.readthedocs.io/en/latest/ Kivy.MD-KivyMD 1.0.0.dev0 documentation 2022
+Python3.10.4 documentation https://docs.python.org/3/ Python.org Apr21
+What is SQLite? https://www.sqlite.org/index.html SQLite Mar. 26 2022 
 TextField https://kivymd.readthedocs.io/en/latest/components/textfield/?highlight=text+field TextField - KivyMD 1.0.0.dev0 documentation April 4, 2022
-
 TextBox https://kivymd.readthedocs.io/en/latest/components/textbox/?highlight=text+field TextBox - KivyMD 1.0.0.dev0 documentation April 10, 2022
-
 BoxLayout https://kivymd.readthedocs.io/en/latest/components/boxlayout/?highlight=sizehint BoxLayout - KivyMD 1.0.0.dev0 documentation April 10, 2022
 # Criteria D: Functionality and Extensibility of the product
 
