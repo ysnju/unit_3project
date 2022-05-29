@@ -41,3 +41,6 @@ binary_representation = struct.pack('>d', number)
 binary_representation = 
 
 ```
+
+citation
+James Murphy "0.1 + 0.2 is NOT 0.3 in Most Programming Languages" mCoding 2021
