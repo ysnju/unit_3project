@@ -166,7 +166,7 @@ ScreenManager:
 ```
 
 
-On Kivy.MD, in order to make different screens for corresponding use, it is necessary to switch between screens. ScreenManager makes this possible. A screen manager is a widget that can manage multiple screens in an application. Fig89 has 7 screens in total to fulfill the success criteria, and for the best user experience. Each screen has an id or name or that allows the Python file and the Kivy.MD to identify the difference between each screen. 
+On Kivy.MD, in order to make different screens for corresponding use, it is necessary to switch between screens. ScreenManager makes this possible. A screen manager is a widget that can manage multiple screens in an application. Fig89 has 7 screens in total to fulfill the success criteria, and for the best user experience. Each screen has an id or name or that allows the Python file and the Kivy.MD to identify the difference between each screen. I used this to identify different screens to help my process.
 
 [Python setup]
 ```py
@@ -598,7 +598,7 @@ TextField https://kivymd.readthedocs.io/en/latest/components/textfield/?highligh
 TextBox https://kivymd.readthedocs.io/en/latest/components/textbox/?highlight=text+field TextBox - KivyMD 1.0.0.dev0 documentation April 10, 2022
 BoxLayout https://kivymd.readthedocs.io/en/latest/components/boxlayout/?highlight=sizehint BoxLayout - KivyMD 1.0.0.dev0 documentation April 10, 2022
 # Criteria D: Functionality and Extensibility of the product
-
+https://youtu.be/1RqkIEXOC9c
 # Criteria E: Evaluation
 
 
