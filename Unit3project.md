@@ -3,34 +3,34 @@
 # Criteria A: Planning
 
 ## Problem definition
-Because my client uses their computer daily for years, they have files that use space on her computer. They want to identify such files with a application, by file name, file size, file types, last updated date, date of the file created and file address. This is because the client does not want to delete any personal files that are kept on purpose. The application also requires a username and password to log in to insure private data can only be accessed by them. The client wants this application on their computer so they can upload file information smoothely. Because they do not want anyone elso to be able to acsess this application, they want a 
+Because my client uses their computer daily for years, they have files that use space on her computer. They want to identify such files with an application, by file name, file size, file types, last updated date, date of the file created, and file address. This is because the client does not want to delete any personal files that are kept on purpose. The application also requires a username and password to log in to ensure private data can only be accessed by them. The client wants this application on their computer so they can upload file information smoothly. Because they do not want anyone else to be able to access this application, they want this program to run on their computer. 
 
 ## Proposed Solution
 **Design Statement**
-I will be solving my client's problem by creating an application that shows information about a file in a table. To do so, I will create the function of the application with the Python3.9 programming language, and the GUI(Graphical user interface) with KivyMD. The data needed in this application will be stored in SQLite.
+I will be solving my client's problem by creating a computer application that shows information about a file in a table. To do so, I will create the function of the application with the Python3.9 programming language, and the GUI(Graphical user interface) with KivyMD. The data needed in this application will be stored in SQLite.
 
-Python3.9 will be the programming language used for this project since it is the most commonly used programming language[1],thus has more resources compared to others, which has helped the programmer learn more about the language[2], and now is the most useful programming language[3]. Python3.9 is an accessible language[4] since it has a simple syntax and is close to natural language. It also is strong in a variety of libraries and frameworks that are beneficial for making the coding process easier. It records the most population for the usage of the language[5].
+Python3.9 will be the programming language used for this project since it is the most commonly used programming language[1], thus has more resources compared to others, which has helped the programmer learn more about the language[2], and now is the most useful programming language[3]. Python3.9 is an accessible language[4] since it has a simple syntax and is close to natural language. It also is strong in a variety of libraries and frameworks that are beneficial for making the coding process easier. It records the most population for the usage of the language[5].
 
-Kivy.MD will be used for the GUI since it allows to import, cross-platform and link with a Python library, in this case, Python3.9. Other than the easy installation, Kivy.MD allows the user to code in a language that is extremely similar to natural language. It also has a similar composition as python, which uses indentation and colons. Because of Kivy.MD is a framework that creates a GUI for the developer, it will run by opening a GUI screen as the output. 
+Kivy.MD will be used for the GUI since it allows to import, cross-platform and link with a Python library[6], in this case, Python3.9. Other than the easy installation, Kivy.MD allows the user to code in a language that is extremely similar to natural language[7]. It also has a similar composition as python[8], which uses indentation and colons. Because of Kivy.MD is a framework that creates a GUI for the developer, it will run by opening a GUI screen as the output[9]. 
 
-SQLite will be used to create and manage the information provided by the user into a database. SQL is one of the most popular languages to interact with databases, with the ability to have almost all the functions related to data table creation. This fits with the client's need, to show their files on a table. Also, because of its file format and cross-platform, and easy interaction with Python3, it has been chosen as the implementor of the SQL database engine. 
+SQLite will be used to create and manage the information provided by the user into a database[10]. SQL is one of the most popular languages to interact with databases, with the ability to have almost all the functions related to data table creation[11]. This fits with the client's need, to show their files on a table. Also, because of its file format and cross-platform, and easy interaction with Python3, it has been chosen as the implementor of the SQL database engine[12]. 
 
 
 ## Success Criteria
 
-1.There is a log-in screen that requires a username and password to log in
+1.There is a log-in screen that requires a username and password
 
-2.Screen after the log-in screen shows **file names** of files in oldest Last updated date order
+2.The application has a screen after the log-in screen shows **file names** of files in oldest Last updated date order
 
-3.Screen after the log-in screen shows **file size** of files in oldest Last updated date order
+3.The application has a screen after the log-in screen shows **file size** of files in oldest Last updated date order
 
-4.Screen after the log-in screen shows **file types** of files in oldest Last updated date order
+4.The application has a screen after the log-in screen shows **file types** of files in oldest Last updated date order
 
-5.Screen after the log-in screen shows the **last updated date** of files in oldest Last updated date order
+5.The application has a screen after the log-in screen shows the **last updated date** of files in oldest Last updated date order
 
-6.Screen after the log-in screen shows the **date of the file created** in oldest Last updated date order
+6.The application has a screen after the log-in screen shows the **date of the file created** in oldest Last updated date order
 
-7.Screen after the log-in screen shows **file address** of files in oldest Last updated date order
+7.The application has a screen after the log-in screen shows **file address** of files in oldest Last updated date order
 
 ## appendix(evidence of client aproving the sucsess criteria)(voice video script email exchange)
 https://user-images.githubusercontent.com/89366347/157995571-2c2406aa-52a2-4bfa-88c7-36c9f4a6b6fa.MOV
@@ -599,6 +599,7 @@ BoxLayout https://kivymd.readthedocs.io/en/latest/components/boxlayout/?highligh
 # Criteria D: Functionality and Extensibility of the product
 
 # Criteria E: Evaluation
+
 
 
 
