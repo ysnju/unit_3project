@@ -18,19 +18,19 @@ SQLite will be used to create and manage the information provided by the user in
 
 ## Success Criteria
 
-1.There is a log-in screen that requires a username and password
+1.There must be a log-in screen that requires a username and password
 
-2.The application has a screen after the log-in screen shows **file names** of files in oldest Last updated date order
+2.The application must have a screen after the log-in screen shows **file names** of files in oldest Last updated date order
 
-3.The application has a screen after the log-in screen shows **file size** of files in oldest Last updated date order
+3.The application must have a screen after the log-in screen shows **file size** of files in oldest Last updated date order
 
-4.The application has a screen after the log-in screen shows **file types** of files in oldest Last updated date order
+4.The application must have a screen after the log-in screen shows **file types** of files in oldest Last updated date order
 
-5.The application has a screen after the log-in screen shows the **last updated date** of files in oldest Last updated date order
+5.The application must have a screen after the log-in screen shows the **last updated date** of files in oldest Last updated date order
 
-6.The application has a screen after the log-in screen shows the **date of the file created** in oldest Last updated date order
+6.The application must have a screen after the log-in screen shows the **date of the file created** in oldest Last updated date order
 
-7.The application has a screen after the log-in screen shows **file address** of files in oldest Last updated date order
+7.The application must have a screen after the log-in screen shows **file address** of files in oldest Last updated date order
 
 ## appendix(evidence of client aproving the sucsess criteria)(voice video script email exchange)
 https://user-images.githubusercontent.com/89366347/157995571-2c2406aa-52a2-4bfa-88c7-36c9f4a6b6fa.MOV
@@ -52,16 +52,16 @@ https://user-images.githubusercontent.com/89366347/157995571-2c2406aa-52a2-4bfa-
 ## Record of Task
 | Task No | Planned Action                    | Planned Outcome                                                                                              | Time estimate | Target completion date | Criterion |
 |---------|-----------------------------------|--------------------------------------------------------------------------------------------------------------|---------------|------------------------|-----------|
-| 1       | Meeting with client               | Identify their need                                                                                          | 20min         | 3/2                    | A         |
-| 2       | Meeting with teacher              | Receive advice for appropriate methods that fulfill client needs effectively Discussion of proposed solution | 10min         | 3/4                    | A         |
+| 1       | Meeting with client to identify needs               | Identify their need                                                                                          | 20min         | 3/2                    | A         |
+| 2       | Meeting with teacher to discuss method            | Receive advice for appropriate methods that fulfill client needs effectively Discussion of proposed solution | 10min         | 3/4                    | A         |
 | 3       | DecideProblem definition          | Embody the clients problem                                                                                   | 20min         | 3/4                    | A         |
 | 4       | Identify success criteria         | To ensure the quality of the produced product                                                                | 10min         | 3/7                    | A         |
 | 5       | Meeting with client               | To agree with the success criteria, if changes are needed, they are made here.                               | 10min         | 3/7                    | A         |
 | 6       | Proposed solution                 | To justify the methods used for the project. To make sure the method used to solve the problem is effective. | 40min         | 4/20                   | A         |
 | 7       | Screen creation                   | To understand the logistics of the method used to solve the problem                                          | 2 hr          | 3/28                   | B         |
-| 8       | Meeting with client               | To agree with the method used, and meeting regarding wireframe diagram that suits client best                | 10min         | 3/30                   | A         |
+| 8       | Meeting with client to discuss method              | To agree with the method used, and meeting regarding wireframe diagram that suits client best                | 10min         | 3/30                   | A         |
 | 9       | Create wireframe diagram          | To agree with the direction the solution is going                                                            | 40min         | 3/31                   | B         |
-| 10      | Meeting with client               | New meeting to update success criteria(Client wanted more Privacy)                                           | 3hr           | 4/7                    | A         |
+| 10      | Meeting with client to agree with success criteria again              | New meeting to update success criteria(Client wanted more Privacy)                                           | 3hr           | 4/7                    | A         |
 | 11      | Password encryption               | Learning password encryption                                                                                 | 2hr 30min     | 4/9                    | C         |
 | 12      | Welcome Screen                    | Screen Transition                                                                                            | 1hr           | 4/11                   | C         |
 | 13      | Registration Screen               | To allow the client to have multiple accounts                                                                | 1hr           | 4/15                   | C         |
@@ -101,16 +101,17 @@ Fig5 is an ER diagram showing the relationship between the File table and the Us
 
 ## UML Diagrams
 Fig6
-![IMG_7D01D712569D-1](https://user-images.githubusercontent.com/89366347/164238708-8481dae4-f7ec-45e1-984f-7f04f2f77087.jpeg)
 Fig6 is a UML Diagram which shows what a class contains. The User class contains four attributes on the diagram and can inherit multiple attributes from the File class.
+<img width="906" alt="Screenshot 2022-05-30 at 16 12 50" src="https://user-images.githubusercontent.com/89366347/170937218-0ca83050-8107-49c5-a86d-d7c39ba02c23.png">
 
 # Criteria C: Development
-1.Tools used in the program
+Tools used in the program
+1.Crypt Context
 2.Random
 3.Python3.9
 4.Kivy. MD
 5.SQLite3/Relational database
-6.Passlib/Crypt Context
+6.Passlib
 
 
 Production process
@@ -133,7 +134,7 @@ It will also require python function that will compare the input and output.
 ## Setting up enviroment
 
 [Kivy.MD]
-When programming the application, the programming language used was Python3.9. Since Kivy.MD was most suitable to make a GUI that responds to the code written in Python, it required to have several libraries imported. 
+When I was programming the application, the programming language used was Python3.9. Since Kivy.MD was most suitable to make a GUI that responds to the code written in Python, it required to have several libraries imported. 
 To connect the Kivy.MD file and the Python3.9 file, the code below was needed.
 
 ```.md
